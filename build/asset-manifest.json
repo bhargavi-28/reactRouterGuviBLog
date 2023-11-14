@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac7324e4.css",
+    "main.js": "/static/js/main.c6a7842a.js",
+    "static/media/coding.webp": "/static/media/coding.f1289d533f2f7fd5d033.webp",
+    "static/media/EverythingaboutDataScientistSalaryinIndia.png": "/static/media/EverythingaboutDataScientistSalaryinIndia.6a449024c66b06d3f306.png",
+    "static/media/TheTop10ToolsEveryFullStackDeveloperShouldMasterin2023.png": "/static/media/TheTop10ToolsEveryFullStackDeveloperShouldMasterin2023.037d8891f34d7529af25.png",
+    "static/media/cybersecuity.gif": "/static/media/cybersecuity.09b9f0109876f8479ae0.gif",
+    "static/media/bestdatascienceframeworks.webp": "/static/media/bestdatascienceframeworks.4c86c1d8a4dc36522636.webp",
+    "static/media/bestwaytolearnfullstackdevelopment.webp": "/static/media/bestwaytolearnfullstackdevelopment.344982f516b6fb7e59c8.webp",
+    "static/media/mustwatchdatasciencefocusedyoutubechannels.webp": "/static/media/mustwatchdatasciencefocusedyoutubechannels.de62b1ec9e65c2aca313.webp",
+    "static/media/TheUltimateGuidetoRealWorldFullStackDevelopmentApplications.png": "/static/media/TheUltimateGuidetoRealWorldFullStackDevelopmentApplications.6667e361ad73fff5ba08.png",
+    "static/media/BluePurple.webp": "/static/media/BluePurple.8cc902594e2b70f35fa3.webp",
+    "static/media/HowLongWouldItTaketoLearnDataScience.webp": "/static/media/HowLongWouldItTaketoLearnDataScience.499ebb0e59c5b2564195.webp",
+    "static/media/blogHeader.png": "/static/media/blogHeader.50fef1b4bf91bd115098.png",
+    "static/media/YellowBlueIllustrationBusinessBlogBanner.png": "/static/media/YellowBlueIllustrationBusinessBlogBanner.e77b91858ad5ae7ba522.png",
+    "static/media/scaled.jpg": "/static/media/scaled.c97ae642c0ec3a705bca.jpg",
+    "static/media/topcareer.jpg": "/static/media/topcareer.f7fd7a164933f9350074.jpg",
+    "static/media/featureimageBestDataScienceOnlineCoursesforBeginners.webp": "/static/media/featureimageBestDataScienceOnlineCoursesforBeginners.c595718d3996b676010c.webp",
+    "static/media/Game.jpg": "/static/media/Game.386fa2f2fbbc1befd14c.jpg",
+    "static/media/featuredimagehowtobecomeuiuxdesigner.webp": "/static/media/featuredimagehowtobecomeuiuxdesigner.2758b63fbf7e30d51b1e.webp",
+    "static/media/featureimageFullStackDevelopmentWebinarsandWorkshops.jpg": "/static/media/featureimageFullStackDevelopmentWebinarsandWorkshops.ef3418f1e589197cb3c3.jpg",
+    "static/media/image6.webp": "/static/media/image6.93ce39ed128cf0e874ba.webp",
+    "static/media/TypesofCyberSecurity.jpg": "/static/media/TypesofCyberSecurity.71e674ad96a3f2ad40e8.jpg",
+    "static/media/featureImageTopAutomationTestingTools.webp": "/static/media/featureImageTopAutomationTestingTools.98caeabc816809808377.webp",
+    "static/media/featureimage.webp": "/static/media/featureimage.87c18f4a4799e2e06037.webp",
+    "static/media/featureimageCareerOpportunitiesinDigitaMarketing.webp": "/static/media/featureimageCareerOpportunitiesinDigitaMarketing.87c18f4a4799e2e06037.webp",
+    "static/media/FeatureImageSkillsRequiredToBecomeDigitalMarketer.webp": "/static/media/FeatureImageSkillsRequiredToBecomeDigitalMarketer.10fef5b7e72ab61d54c8.webp",
+    "static/media/featureimageuiuxProjectShowcase.webp": "/static/media/featureimageuiuxProjectShowcase.5399883a08cbcc85314e.webp",
+    "static/media/TealIllustration.webp": "/static/media/TealIllustration.da9035ce9e79a972f85e.webp",
+    "static/media/UX.webp": "/static/media/UX.fb6decd9580295df36cb.webp",
+    "static/media/datasciencewebinarsandworkshops.webp": "/static/media/datasciencewebinarsandworkshops.c15910b76fd16beac99f.webp",
+    "index.html": "/index.html",
+    "main.ac7324e4.css.map": "/static/css/main.ac7324e4.css.map",
+    "main.c6a7842a.js.map": "/static/js/main.c6a7842a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac7324e4.css",
+    "static/js/main.c6a7842a.js"
+  ]
+}
